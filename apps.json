@@ -1,11 +1,11 @@
 [
   {
-    "imageSrc": "./img/java.svg",
+    "imageSrc": "java.svg",
     "title": "Java",
     "description": "Java is a programming language..."
   },
   {
-    "imageSrc": "./img/python.svg",
+    "imageSrc": "python.svg",
     "title": "Python",
     "description": "Python is a programming language..."
   }
