@@ -2,62 +2,175 @@
   {
     "imageSrc": "java.svg",
     "title": "Java",
+    "category": "Programming",
     "description": "ist eine Programmiersprache und eine Laufzeitumgebung, die zuerst im Jahre 1995 von Sun Microsystems veröffentlicht wurde. Es gibt eine täglich wachsende Anzahl von Anwendungen und Websites, die nur funktionieren, wenn auf dem Endgerät Java installiert ist. Java ist schnell, sicher und zuverlässig."
   },
   {
     "imageSrc": "python.svg",
     "title": "Python",
+    "category": "Programming",
     "description": "ist eine Programmiersprache, die dank ihrer klaren Syntax und einfachen Lesbarkeit leicht zuerlernen ist und sich sehr vielseitig einsetzen lässt. Für die gängigen Betriebssysteme ist Python freiverfügbar. Die üblichen Programmierparadigmen wie die objektorientierte oder funktionale Programmierungwerden unterstützt."
   },
   {
     "imageSrc": "dart.svg",
     "title": "Dart",
+    "category": "Programming",
     "description": "ist eine Programmiersprache, die von Google entwickelt wird. Neben Dart wurden von Google zahlreiche andere Programmiersprachen entworfen, etwa Groovy. Diese Sprache ist kompatibel zu Java und erzeugt Code für die Java Virtual Maschine. Ursprünglich wurde Dart als Sprache für den Web-Browser Chrome entwickelt."
   },
   {
     "imageSrc": "flutter.svg",
     "title": "Flutter",
+    "category": "Programming",
     "description": "ist ein Open-Source-UI-Entwicklungs-Kit von Google. Mit Flutter können Cross-Platform Apps in der Programmiersprache Dart entwickelt werden. Ein Flutter-Programm soll ohne größere Anpassungen auf folgenden Zielplattformen lauffähig sein: Webapp, Android, iOS, Windows, Linux, MacOS und Google Fuchsia."
   },
   {
     "imageSrc": "mitapp.svg",
     "title": "Mit App Inventor",
+    "category": "Programming",
     "description": "ist eine ursprünglich vom Google Inc. entwickelte Integrierte Entwicklungsumgebung, um Anwendungen für Android zu programmieren. Die verwendete grafische Schnittstelle ermöglicht es Anwendern, per Drag and Drop grafische Blöcke (grafische Programmiersprache) zu einer Anwendung für Mobiltelefone mit dem Android-System zu erstellen."
   },
   {
     "imageSrc": "processing.svg",
     "title": "Processing",
+    "category": "Programming",
     "description": "ist eine objektorientierte, stark typisierte Programmiersprache mit zugehöriger integrierter Entwicklungsumgebung. Die Programmiersprache ist auf die Einsatzbereiche Grafik, Simulation und Animation spezialisiert."
   },
   {
     "imageSrc": "html.svg",
     "title": "HTML",
+    "category": "WebProgramming",
     "description": "(Hypertext Markup Language) ist der Code, welcher benötigt wird, um den Webinhalt zu strukturieren und ihm eine Bedeutung und einen Zweck zu geben. So kann zum Beispiel der Inhalt Absätze und Grafiken, aber auch Bilder und Tabellen enthalten."
   },
   {
     "imageSrc": "css.svg",
     "title": "CSS",
+    "category": "WebProgramming",
     "description": "(Cascading Style Sheets) ist eine Programmiersprache, die es ermöglicht, das Design von elektronischen Dokumenten zu bestimmen. Anhand einfacher Anweisungen – dargestellt in übersichtlichen Quellcodes – lassen sich so Webseiten-Elemente wie Layout, Farbe und Typografie nach Belieben anpassen."
   },
   {
     "imageSrc": "js.svg",
     "title": "JavaScript",
+    "category": "WebProgramming",
     "description": "ist eine Programmiersprache, mit der man interaktive Inhalte zu einer Webseite hinzufügen kann (z.B. Spiele, Reaktionen durch das Drücken von Buttons oder Eingaben in Formulare, dynamisches Aussehen, Animationen, usw.)."
   },
   {
     "imageSrc": "php.svg",
     "title": "PHP",
+    "category": "WebProgramming",
     "description": "(rekursives Akronym für „PHP: Hypertext Preprocessor“) ist eine weit verbreitete und für den allgemeinen Gebrauch bestimmte Open-Source-Skriptsprache, welche speziell für die Webprogrammierung geeignet ist und in HTML eingebettet werden kann."
   },
   {
     "imageSrc": "ae.svg",
     "title": "Adobe After Effects",
+    "category": "Adobe",
     "description": "ist ein Software-Programm für Grafikanimationen und Spezialeffekte, das in der Postproduktion für Film und Video eingesetzt wird."
   },
   {
     "imageSrc": "au.svg",
     "title": "Adobe Audition",
+    "category": "Adobe",
     "description": "ist ein auf der Oberfläche von Adobe Soundbooth basierendes Audio-Programm."
+  },
+  {
+    "imageSrc": "ai.svg",
+    "title": "Adobe Illustrator",
+    "category": "Adobe",
+    "description": "ist ein führendes Software-Programm für Vektorgrafik und Illustration."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Adobe InDesign",
+    "category": "Adobe",
+    "description": "ist ein führendes Design- und Layout-Programm."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Adobe Photoshop",
+    "category": "Adobe",
+    "description": "ist die führende Software für Bildbearbeitung und Grafik-Design, die sowohl für den Desktop als auch für das Tablet (Photoshop für iPad, seit 2019) verfügbar ist."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Adobe Photoshop Lightroom",
+    "category": "Adobe",
+    "description": "ist ein cloudbasiertes geräteübergreifendes Programm für das Bearbeiten und Verwalten von Fotos, das sowohl für Desktop als auch Mobile (Tablets, Smartphones) verfügbar ist."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Adobe Photoshop Lightroom Classic",
+    "category": "Adobe",
+    "description": "ist ein Programm für die Verwaltung und Bearbeitung von Fotos und Videos (rudimentär) auf dem Desktop."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Adobe Premiere Pro",
+    "category": "Adobe",
+    "description": "ist ein Programm zur professionellen Videobearbeitung und -produktion."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Adobe XD (Experience Design)",
+    "category": "Adobe",
+    "description": "ist ein Programm zu den Prototypen und der Erstellung von digitalen User Experiences in Form von Webseiten, Apps, Voice UI oder Games"
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Inkscape",
+    "category": "2D",
+    "description": "(von engl. „ink“ -Tinte und „-scape“ wie in „landscape“ - Landschaft) ist eine freie, plattformunabhängige Software zur Bearbeitung und Erstellung zweidimensionaler Vektorgrafiken."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "CorelDRAW",
+    "category": "2D",
+    "description": "umfasst verschiedene Zeichenhilfsmittel, mit denen gekrümmte und gerade Linien sowie Linien mit gekrümmten und geraden Segmenten gezeichnet werden können."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Blender",
+    "category": "3D",
+    "description": "ist eine freie, mit der GPL lizenzierte 3D-Grafiksuite, mit welcher sich Körper modellieren, texturieren und animieren lassen. Diese können in Grafiken, Animationen und Software systematisiert werden."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "SketchUp",
+    "category": "3D",
+    "description": "ist eine Software zur Erstellung von dreidimensionalen Modellen. Der Name spielt wegen der schnellen Arbeitsweise auf die Handskizze an."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Sweet Home 3D",
+    "category": "3D",
+    "description": "ist ein freies Programm für die Inneneinrichtung. Es hilft dabei, Mobiliar in einem 2D-Plan zu platzieren und hat eine 3D-Vorschau."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Lumion",
+    "category": "3D",
+    "description": "hilft bei der Gestaltung von Räumen, Szenerien und Modellen am PC. Die Ergebnisse sind fotorealistisch und das leistungsstarke Rendering geht in Rekordzeit vonstatten."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Tinkercad",
+    "category": "3D",
+    "description": "ist eine browserbasierte Software, mit der sich mehr oder weniger komplexe 3D-Druckmodelle erstellen lassen."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "Camtasia",
+    "category": "Vedio",
+    "description": "Studio ist eine kommerzielle Software zur Aufnahme von Screencasts als Video. Entwickler ist das Unternehmen TechSmith. Der Inhalt des Bildschirms kann ganz oder teilweise aufgenommen und weiterverarbeitet werden."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "VideoScribe",
+    "category": "Vedio",
+    "description": "ist eine Software zum automatischen Erstellen von Whiteboard-Animationen und vielen anderen Animationsstilen. Es ist bei seinen AbonnentInnen nach wie vor sehr beliebt, da es die Erstellung von animierten Videoinhalten mit wenigen erforderlichen Fähigkeiten oder Vorkenntnissen ermöglicht."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "VEGAS",
+    "category": "Vedio",
+    "description": "Pro von Magix (ehemals Sony Vegas Pro) ist ein Profi-NLE-Videoschnittprogramm für die Produktion von anspruchsvollen HD-Videos sowie Audio- und Blu-ray Medien. Die Suite enthält alle Werkzeuge, die für eine schnelle und effiziente Bearbeitung benötigt werden und verarbeitet alle gängigen Kameraformate."
   }
-  
 ]
