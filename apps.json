@@ -175,7 +175,7 @@
   },
 
   {
-    "imageSrc": "fusion360.svg",
+    "imageSrc": "fu360.svg",
     "title": "Autodesk Fusion 360",
     "category": "3D",
     "description": "ist eine cloudbasierte CAD-, CAM- und CAE-Software zur Konstruktion, Simulation und Fertigung von 3D-Modellen. Sie wird häufig im Maschinenbau, Produktdesign und 3D-Druck eingesetzt."
@@ -205,7 +205,7 @@
     "description": "ist eine Sammlung von Büroanwendungen wie Word, PowerPoint und Excel. Sie wird zur Textverarbeitung, Präsentationserstellung und Tabellenkalkulation eingesetzt."
   },
   {
-    "imageSrc": "nodered.svg",
+    "imageSrc": "nr.svg",
     "title": "Node-RED",
     "category": "Automation",
     "description": "ist ein flowbasiertes Entwicklungswerkzeug zur visuellen Programmierung. Es wird häufig für IoT-, Automatisierungs- und Datenverarbeitungsanwendungen eingesetzt."
@@ -217,7 +217,7 @@
     "description": "ist eine Open-Source-Automatisierungsplattform, mit der sich Workflows zwischen verschiedenen Diensten und APIs visuell erstellen und automatisieren lassen."
   },
   {
-    "imageSrc": "portainer.svg",
+    "imageSrc": "po.svg",
     "title": "Portainer",
     "category": "DevOps",
     "description": "ist eine Verwaltungsoberfläche für Docker- und Kubernetes-Umgebungen. Sie erleichtert das Management von Containern, Images, Netzwerken und Volumes."
