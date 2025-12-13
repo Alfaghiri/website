@@ -172,5 +172,60 @@
     "title": "VEGAS",
     "category": "Vedio",
     "description": "Pro von Magix (ehemals Sony Vegas Pro) ist ein Profi-NLE-Videoschnittprogramm für die Produktion von anspruchsvollen HD-Videos sowie Audio- und Blu-ray Medien. Die Suite enthält alle Werkzeuge, die für eine schnelle und effiziente Bearbeitung benötigt werden und verarbeitet alle gängigen Kameraformate."
+  },
+
+  {
+    "imageSrc": "fusion360.svg",
+    "title": "Autodesk Fusion 360",
+    "category": "3D",
+    "description": "ist eine cloudbasierte CAD-, CAM- und CAE-Software zur Konstruktion, Simulation und Fertigung von 3D-Modellen. Sie wird häufig im Maschinenbau, Produktdesign und 3D-Druck eingesetzt."
+  },
+  {
+    "imageSrc": "prusa.svg",
+    "title": "PrusaSlicer",
+    "category": "3D",
+    "description": "ist eine Open-Source-Slicing-Software für den 3D-Druck. Sie wandelt 3D-Modelle in druckbare G-Code-Dateien um und bietet umfangreiche Einstellmöglichkeiten für verschiedene Drucker und Materialien."
+  },
+  {
+    "imageSrc": "bambu.svg",
+    "title": "Bambu Studio",
+    "category": "3D",
+    "description": "ist eine Slicing-Software für Bambu-Lab-3D-Drucker, die auf PrusaSlicer basiert. Sie ermöglicht eine einfache Vorbereitung, Vorschau und Optimierung von 3D-Druckaufträgen."
+  },
+  {
+    "imageSrc": "openscad.svg",
+    "title": "OpenSCAD",
+    "category": "3D",
+    "description": "ist eine skriptbasierte Software zur Erstellung von 3D-Modellen. Anstatt per Maus zu zeichnen, werden Modelle über Code beschrieben, was besonders für parametrisierte Konstruktionen geeignet ist."
+  },
+  {
+    "imageSrc": "office.svg",
+    "title": "Microsoft Office",
+    "category": "Office",
+    "description": "ist eine Sammlung von Büroanwendungen wie Word, PowerPoint und Excel. Sie wird zur Textverarbeitung, Präsentationserstellung und Tabellenkalkulation eingesetzt."
+  },
+  {
+    "imageSrc": "nodered.svg",
+    "title": "Node-RED",
+    "category": "Automation",
+    "description": "ist ein flowbasiertes Entwicklungswerkzeug zur visuellen Programmierung. Es wird häufig für IoT-, Automatisierungs- und Datenverarbeitungsanwendungen eingesetzt."
+  },
+  {
+    "imageSrc": "n8n.svg",
+    "title": "n8n",
+    "category": "Automation",
+    "description": "ist eine Open-Source-Automatisierungsplattform, mit der sich Workflows zwischen verschiedenen Diensten und APIs visuell erstellen und automatisieren lassen."
+  },
+  {
+    "imageSrc": "portainer.svg",
+    "title": "Portainer",
+    "category": "DevOps",
+    "description": "ist eine Verwaltungsoberfläche für Docker- und Kubernetes-Umgebungen. Sie erleichtert das Management von Containern, Images, Netzwerken und Volumes."
+  },
+  {
+    "imageSrc": "latex.svg",
+    "title": "LaTeX",
+    "category": "Typesetting",
+    "description": "ist ein textbasiertes Satzsystem zur Erstellung hochwertiger wissenschaftlicher Dokumente. Es wird besonders für Arbeiten mit mathematischen Formeln, Tabellen und Literaturverzeichnissen verwendet."
   }
 ]
