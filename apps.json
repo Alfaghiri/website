@@ -78,37 +78,37 @@
     "description": "ist ein führendes Software-Programm für Vektorgrafik und Illustration."
   },
   {
-    "imageSrc": "au.svg",
+    "imageSrc": "id.svg",
     "title": "Adobe InDesign",
     "category": "Adobe",
     "description": "ist ein führendes Design- und Layout-Programm."
   },
   {
-    "imageSrc": "au.svg",
+    "imageSrc": "ps.svg",
     "title": "Adobe Photoshop",
     "category": "Adobe",
     "description": "ist die führende Software für Bildbearbeitung und Grafik-Design, die sowohl für den Desktop als auch für das Tablet (Photoshop für iPad, seit 2019) verfügbar ist."
   },
   {
-    "imageSrc": "au.svg",
+    "imageSrc": "lr.svg",
     "title": "Adobe Photoshop Lightroom",
     "category": "Adobe",
     "description": "ist ein cloudbasiertes geräteübergreifendes Programm für das Bearbeiten und Verwalten von Fotos, das sowohl für Desktop als auch Mobile (Tablets, Smartphones) verfügbar ist."
   },
   {
-    "imageSrc": "au.svg",
+    "imageSrc": "lrc.svg",
     "title": "Adobe Photoshop Lightroom Classic",
     "category": "Adobe",
     "description": "ist ein Programm für die Verwaltung und Bearbeitung von Fotos und Videos (rudimentär) auf dem Desktop."
   },
   {
-    "imageSrc": "au.svg",
+    "imageSrc": "pr.svg",
     "title": "Adobe Premiere Pro",
     "category": "Adobe",
     "description": "ist ein Programm zur professionellen Videobearbeitung und -produktion."
   },
   {
-    "imageSrc": "au.svg",
+    "imageSrc": "xd.svg",
     "title": "Adobe XD (Experience Design)",
     "category": "Adobe",
     "description": "ist ein Programm zu den Prototypen und der Erstellung von digitalen User Experiences in Form von Webseiten, Apps, Voice UI oder Games"
