@@ -199,7 +199,7 @@
     "description": "ist eine skriptbasierte Software zur Erstellung von 3D-Modellen. Anstatt per Maus zu zeichnen, werden Modelle über Code beschrieben, was besonders für parametrisierte Konstruktionen geeignet ist."
   },
   {
-    "imageSrc": "office.svg",
+    "imageSrc": "mso.svg",
     "title": "Microsoft Office",
     "category": "Office",
     "description": "ist eine Sammlung von Büroanwendungen wie Word, PowerPoint und Excel. Sie wird zur Textverarbeitung, Präsentationserstellung und Tabellenkalkulation eingesetzt."
