@@ -181,13 +181,13 @@
     "description": "ist eine cloudbasierte CAD-, CAM- und CAE-Software zur Konstruktion, Simulation und Fertigung von 3D-Modellen. Sie wird häufig im Maschinenbau, Produktdesign und 3D-Druck eingesetzt."
   },
   {
-    "imageSrc": "prusa.svg",
+    "imageSrc": "prusa.png",
     "title": "PrusaSlicer",
     "category": "3D",
     "description": "ist eine Open-Source-Slicing-Software für den 3D-Druck. Sie wandelt 3D-Modelle in druckbare G-Code-Dateien um und bietet umfangreiche Einstellmöglichkeiten für verschiedene Drucker und Materialien."
   },
   {
-    "imageSrc": "bambu.svg",
+    "imageSrc": "bambu.png",
     "title": "Bambu Studio",
     "category": "3D",
     "description": "ist eine Slicing-Software für Bambu-Lab-3D-Drucker, die auf PrusaSlicer basiert. Sie ermöglicht eine einfache Vorbereitung, Vorschau und Optimierung von 3D-Druckaufträgen."
