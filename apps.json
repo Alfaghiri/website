@@ -3,229 +3,266 @@
     "imageSrc": "java.svg",
     "title": "Java",
     "category": "Programming",
-    "description": "ist eine Programmiersprache und eine Laufzeitumgebung, die zuerst im Jahre 1995 von Sun Microsystems veröffentlicht wurde. Es gibt eine täglich wachsende Anzahl von Anwendungen und Websites, die nur funktionieren, wenn auf dem Endgerät Java installiert ist. Java ist schnell, sicher und zuverlässig."
+    "description_de": "ist eine Programmiersprache und eine Laufzeitumgebung, die zuerst im Jahre 1995 von Sun Microsystems veröffentlicht wurde. Es gibt eine täglich wachsende Anzahl von Anwendungen und Websites, die nur funktionieren, wenn auf dem Endgerät Java installiert ist. Java ist schnell, sicher und zuverlässig.",
+    "description_en": "is a programming language and runtime environment first released in 1995 by Sun Microsystems. There is a daily growing number of applications and websites that only work if Java is installed on the device. Java is fast, secure, and reliable."
   },
   {
     "imageSrc": "python.svg",
     "title": "Python",
     "category": "Programming",
-    "description": "ist eine Programmiersprache, die dank ihrer klaren Syntax und einfachen Lesbarkeit leicht zuerlernen ist und sich sehr vielseitig einsetzen lässt. Für die gängigen Betriebssysteme ist Python freiverfügbar. Die üblichen Programmierparadigmen wie die objektorientierte oder funktionale Programmierungwerden unterstützt."
+    "description_de": "ist eine Programmiersprache, die dank ihrer klaren Syntax und einfachen Lesbarkeit leicht zu erlernen ist und sich sehr vielseitig einsetzen lässt. Für die gängigen Betriebssysteme ist Python frei verfügbar. Die üblichen Programmierparadigmen wie die objektorientierte oder funktionale Programmierung werden unterstützt.",
+    "description_en": "is a programming language that is easy to learn thanks to its clear syntax and readability, and is very versatile. Python is freely available for common operating systems and supports paradigms such as object-oriented and functional programming."
   },
   {
     "imageSrc": "dart.svg",
     "title": "Dart",
     "category": "Programming",
-    "description": "ist eine Programmiersprache, die von Google entwickelt wird. Neben Dart wurden von Google zahlreiche andere Programmiersprachen entworfen, etwa Groovy. Diese Sprache ist kompatibel zu Java und erzeugt Code für die Java Virtual Maschine. Ursprünglich wurde Dart als Sprache für den Web-Browser Chrome entwickelt."
+    "description_de": "ist eine Programmiersprache, die von Google entwickelt wird. Neben Dart wurden von Google zahlreiche andere Programmiersprachen entworfen, etwa Groovy. Diese Sprache ist kompatibel zu Java und erzeugt Code für die Java Virtual Machine. Ursprünglich wurde Dart als Sprache für den Web-Browser Chrome entwickelt.",
+    "description_en": "is a programming language developed by Google. Alongside Dart, Google has designed numerous other languages such as Groovy. It is compatible with Java and generates code for the Java Virtual Machine. Originally, Dart was developed as a language for the Chrome web browser."
   },
   {
     "imageSrc": "flutter.svg",
     "title": "Flutter",
     "category": "Programming",
-    "description": "ist ein Open-Source-UI-Entwicklungs-Kit von Google. Mit Flutter können Cross-Platform Apps in der Programmiersprache Dart entwickelt werden. Ein Flutter-Programm soll ohne größere Anpassungen auf folgenden Zielplattformen lauffähig sein: Webapp, Android, iOS, Windows, Linux, MacOS und Google Fuchsia."
+    "description_de": "ist ein Open-Source-UI-Entwicklungs-Kit von Google. Mit Flutter können Cross-Platform Apps in der Programmiersprache Dart entwickelt werden. Ein Flutter-Programm soll ohne größere Anpassungen auf folgenden Zielplattformen lauffähig sein: Webapp, Android, iOS, Windows, Linux, MacOS und Google Fuchsia.",
+    "description_en": "is an open-source UI development kit by Google. With Flutter, cross-platform apps can be built in Dart. A Flutter program is designed to run on multiple platforms without major changes: web app, Android, iOS, Windows, Linux, macOS, and Google Fuchsia."
   },
   {
     "imageSrc": "mitapp.svg",
-    "title": "Mit App Inventor",
+    "title": "MIT App Inventor",
     "category": "Programming",
-    "description": "ist eine ursprünglich vom Google Inc. entwickelte Integrierte Entwicklungsumgebung, um Anwendungen für Android zu programmieren. Die verwendete grafische Schnittstelle ermöglicht es Anwendern, per Drag and Drop grafische Blöcke (grafische Programmiersprache) zu einer Anwendung für Mobiltelefone mit dem Android-System zu erstellen."
+    "description_de": "ist eine ursprünglich von Google Inc. entwickelte Integrierte Entwicklungsumgebung, um Anwendungen für Android zu programmieren. Die grafische Schnittstelle ermöglicht es Anwendern, per Drag and Drop grafische Blöcke zu einer Anwendung für Mobiltelefone mit dem Android-System zu erstellen.",
+    "description_en": "is an integrated development environment originally developed by Google Inc. for creating Android applications. Its visual drag-and-drop interface lets users assemble graphical blocks into fully functional Android apps without writing traditional code."
   },
   {
     "imageSrc": "processing.svg",
     "title": "Processing",
     "category": "Programming",
-    "description": "ist eine objektorientierte, stark typisierte Programmiersprache mit zugehöriger integrierter Entwicklungsumgebung. Die Programmiersprache ist auf die Einsatzbereiche Grafik, Simulation und Animation spezialisiert."
+    "description_de": "ist eine objektorientierte, stark typisierte Programmiersprache mit zugehöriger integrierter Entwicklungsumgebung. Die Programmiersprache ist auf die Einsatzbereiche Grafik, Simulation und Animation spezialisiert.",
+    "description_en": "is an object-oriented, strongly typed programming language with an integrated development environment. It is specialized for graphics, simulation, and animation — making it popular in creative coding and digital art."
   },
   {
     "imageSrc": "html.svg",
     "title": "HTML",
     "category": "WebProgramming",
-    "description": "(Hypertext Markup Language) ist der Code, welcher benötigt wird, um den Webinhalt zu strukturieren und ihm eine Bedeutung und einen Zweck zu geben. So kann zum Beispiel der Inhalt Absätze und Grafiken, aber auch Bilder und Tabellen enthalten."
+    "description_de": "(Hypertext Markup Language) ist der Code, welcher benötigt wird, um den Webinhalt zu strukturieren und ihm eine Bedeutung und einen Zweck zu geben. So kann zum Beispiel der Inhalt Absätze und Grafiken, aber auch Bilder und Tabellen enthalten.",
+    "description_en": "(Hypertext Markup Language) is the code used to structure web content and give it meaning and purpose. Content can include paragraphs, graphics, images, and tables — forming the backbone of every web page."
   },
   {
     "imageSrc": "css.svg",
     "title": "CSS",
     "category": "WebProgramming",
-    "description": "(Cascading Style Sheets) ist eine Programmiersprache, die es ermöglicht, das Design von elektronischen Dokumenten zu bestimmen. Anhand einfacher Anweisungen – dargestellt in übersichtlichen Quellcodes – lassen sich so Webseiten-Elemente wie Layout, Farbe und Typografie nach Belieben anpassen."
+    "description_de": "(Cascading Style Sheets) ist eine Programmiersprache, die es ermöglicht, das Design von elektronischen Dokumenten zu bestimmen. Anhand einfacher Anweisungen lassen sich so Webseiten-Elemente wie Layout, Farbe und Typografie nach Belieben anpassen.",
+    "description_en": "(Cascading Style Sheets) is a stylesheet language used to control the visual presentation of web pages. With simple instructions, elements such as layout, color, and typography can be customized to any design."
   },
   {
     "imageSrc": "js.svg",
     "title": "JavaScript",
     "category": "WebProgramming",
-    "description": "ist eine Programmiersprache, mit der man interaktive Inhalte zu einer Webseite hinzufügen kann (z.B. Spiele, Reaktionen durch das Drücken von Buttons oder Eingaben in Formulare, dynamisches Aussehen, Animationen, usw.)."
+    "description_de": "ist eine Programmiersprache, mit der man interaktive Inhalte zu einer Webseite hinzufügen kann (z.B. Spiele, Reaktionen durch das Drücken von Buttons oder Eingaben in Formulare, dynamisches Aussehen, Animationen, usw.).",
+    "description_en": "is a programming language used to add interactive content to websites — such as games, button responses, form validation, dynamic visuals, and animations."
   },
   {
     "imageSrc": "php.svg",
     "title": "PHP",
     "category": "WebProgramming",
-    "description": "(rekursives Akronym für „PHP: Hypertext Preprocessor“) ist eine weit verbreitete und für den allgemeinen Gebrauch bestimmte Open-Source-Skriptsprache, welche speziell für die Webprogrammierung geeignet ist und in HTML eingebettet werden kann."
+    "description_de": "(rekursives Akronym für „PHP: Hypertext Preprocessor„) ist eine weit verbreitete Open-Source-Skriptsprache, welche speziell für die Webprogrammierung geeignet ist und in HTML eingebettet werden kann.",
+    "description_en": "(recursive acronym for „PHP: Hypertext Preprocessor„) is a widely used, general-purpose open-source scripting language especially suited for web development and can be embedded directly into HTML."
   },
   {
     "imageSrc": "ae.svg",
     "title": "Adobe After Effects",
     "category": "Adobe",
-    "description": "ist ein Software-Programm für Grafikanimationen und Spezialeffekte, das in der Postproduktion für Film und Video eingesetzt wird."
+    "description_de": "ist ein Software-Programm für Grafikanimationen und Spezialeffekte, das in der Postproduktion für Film und Video eingesetzt wird.",
+    "description_en": "is a software program for graphic animations and special effects, widely used in post-production for film and video."
   },
   {
     "imageSrc": "au.svg",
     "title": "Adobe Audition",
     "category": "Adobe",
-    "description": "ist ein auf der Oberfläche von Adobe Soundbooth basierendes Audio-Programm."
+    "description_de": "ist ein auf der Oberfläche von Adobe Soundbooth basierendes Audio-Programm.",
+    "description_en": "is a professional audio workstation based on the interface of Adobe Soundbooth, used for recording, mixing, and restoring audio."
   },
   {
     "imageSrc": "ai.svg",
     "title": "Adobe Illustrator",
     "category": "Adobe",
-    "description": "ist ein führendes Software-Programm für Vektorgrafik und Illustration."
+    "description_de": "ist ein führendes Software-Programm für Vektorgrafik und Illustration.",
+    "description_en": "is a leading software program for vector graphics and illustration, used by designers worldwide."
   },
   {
     "imageSrc": "id.svg",
     "title": "Adobe InDesign",
     "category": "Adobe",
-    "description": "ist ein führendes Design- und Layout-Programm."
+    "description_de": "ist ein führendes Design- und Layout-Programm.",
+    "description_en": "is a leading design and layout program used for creating publications, magazines, and print media."
   },
   {
     "imageSrc": "ps.svg",
     "title": "Adobe Photoshop",
     "category": "Adobe",
-    "description": "ist die führende Software für Bildbearbeitung und Grafik-Design, die sowohl für den Desktop als auch für das Tablet (Photoshop für iPad, seit 2019) verfügbar ist."
+    "description_de": "ist die führende Software für Bildbearbeitung und Grafik-Design, die sowohl für den Desktop als auch für das Tablet (Photoshop für iPad, seit 2019) verfügbar ist.",
+    "description_en": "is the industry-leading software for image editing and graphic design, available for both desktop and tablet (Photoshop for iPad, since 2019)."
   },
   {
     "imageSrc": "lr.svg",
     "title": "Adobe Photoshop Lightroom",
     "category": "Adobe",
-    "description": "ist ein cloudbasiertes geräteübergreifendes Programm für das Bearbeiten und Verwalten von Fotos, das sowohl für Desktop als auch Mobile (Tablets, Smartphones) verfügbar ist."
+    "description_de": "ist ein cloudbasiertes geräteübergreifendes Programm für das Bearbeiten und Verwalten von Fotos, das sowohl für Desktop als auch Mobile (Tablets, Smartphones) verfügbar ist.",
+    "description_en": "is a cloud-based, cross-device program for editing and managing photos, available for both desktop and mobile devices (tablets and smartphones)."
   },
   {
     "imageSrc": "lrc.svg",
     "title": "Adobe Photoshop Lightroom Classic",
     "category": "Adobe",
-    "description": "ist ein Programm für die Verwaltung und Bearbeitung von Fotos und Videos (rudimentär) auf dem Desktop."
+    "description_de": "ist ein Programm für die Verwaltung und Bearbeitung von Fotos und Videos (rudimentär) auf dem Desktop.",
+    "description_en": "is a desktop-based program for organizing and editing photos and videos (basic), offering powerful cataloging and non-destructive editing tools."
   },
   {
     "imageSrc": "pr.svg",
     "title": "Adobe Premiere Pro",
     "category": "Adobe",
-    "description": "ist ein Programm zur professionellen Videobearbeitung und -produktion."
+    "description_de": "ist ein Programm zur professionellen Videobearbeitung und -produktion.",
+    "description_en": "is a professional video editing and production program used by filmmakers, YouTubers, and broadcasters worldwide."
   },
   {
     "imageSrc": "xd.svg",
     "title": "Adobe XD (Experience Design)",
     "category": "Adobe",
-    "description": "ist ein Programm zu den Prototypen und der Erstellung von digitalen User Experiences in Form von Webseiten, Apps, Voice UI oder Games"
+    "description_de": "ist ein Programm zu den Prototypen und der Erstellung von digitalen User Experiences in Form von Webseiten, Apps, Voice UI oder Games.",
+    "description_en": "is a program for prototyping and creating digital user experiences in the form of websites, apps, voice UIs, or games."
   },
   {
     "imageSrc": "ink.svg",
     "title": "Inkscape",
     "category": "2D",
-    "description": "(von engl. „ink“ -Tinte und „-scape“ wie in „landscape“ - Landschaft) ist eine freie, plattformunabhängige Software zur Bearbeitung und Erstellung zweidimensionaler Vektorgrafiken."
+    "description_de": "(von engl. „ink„ – Tinte und „-scape„ wie in „landscape„ – Landschaft) ist eine freie, plattformunabhängige Software zur Bearbeitung und Erstellung zweidimensionaler Vektorgrafiken.",
+    "description_en": "(from English „ink„ and „-scape„ as in „landscape„) is a free, platform-independent software for editing and creating two-dimensional vector graphics."
   },
   {
     "imageSrc": "cd.svg",
     "title": "CorelDRAW",
     "category": "2D",
-    "description": "umfasst verschiedene Zeichenhilfsmittel, mit denen gekrümmte und gerade Linien sowie Linien mit gekrümmten und geraden Segmenten gezeichnet werden können."
+    "description_de": "umfasst verschiedene Zeichenhilfsmittel, mit denen gekrümmte und gerade Linien sowie Linien mit gekrümmten und geraden Segmenten gezeichnet werden können.",
+    "description_en": "offers a wide range of drawing tools for creating curved and straight lines, as well as lines with mixed curved and straight segments — ideal for professional illustration and design."
   },
   {
     "imageSrc": "bl.svg",
     "title": "Blender",
     "category": "3D",
-    "description": "ist eine freie, mit der GPL lizenzierte 3D-Grafiksuite, mit welcher sich Körper modellieren, texturieren und animieren lassen. Diese können in Grafiken, Animationen und Software systematisiert werden."
+    "description_de": "ist eine freie, mit der GPL lizenzierte 3D-Grafiksuite, mit welcher sich Körper modellieren, texturieren und animieren lassen. Diese können in Grafiken, Animationen und Software systematisiert werden.",
+    "description_en": "is a free, GPL-licensed 3D graphics suite for modeling, texturing, and animating objects. Results can be used in graphics, animations, game engines, and more."
   },
   {
     "imageSrc": "sk.svg",
     "title": "SketchUp",
     "category": "3D",
-    "description": "ist eine Software zur Erstellung von dreidimensionalen Modellen. Der Name spielt wegen der schnellen Arbeitsweise auf die Handskizze an."
+    "description_de": "ist eine Software zur Erstellung von dreidimensionalen Modellen. Der Name spielt wegen der schnellen Arbeitsweise auf die Handskizze an.",
+    "description_en": "is a software for creating three-dimensional models. Its name refers to the quick, sketch-like workflow that makes 3D modeling intuitive and fast."
   },
   {
     "imageSrc": "swh.png",
     "title": "Sweet Home 3D",
     "category": "3D",
-    "description": "ist ein freies Programm für die Inneneinrichtung. Es hilft dabei, Mobiliar in einem 2D-Plan zu platzieren und hat eine 3D-Vorschau."
+    "description_de": "ist ein freies Programm für die Inneneinrichtung. Es hilft dabei, Mobiliar in einem 2D-Plan zu platzieren und hat eine 3D-Vorschau.",
+    "description_en": "is a free interior design program that helps you place furniture in a 2D floor plan and preview the result in a real-time 3D view."
   },
   {
     "imageSrc": "lum.svg",
     "title": "Lumion",
     "category": "3D",
-    "description": "hilft bei der Gestaltung von Räumen, Szenerien und Modellen am PC. Die Ergebnisse sind fotorealistisch und das leistungsstarke Rendering geht in Rekordzeit vonstatten."
+    "description_de": "hilft bei der Gestaltung von Räumen, Szenerien und Modellen am PC. Die Ergebnisse sind fotorealistisch und das leistungsstarke Rendering geht in Rekordzeit vonstatten.",
+    "description_en": "helps design spaces, sceneries, and models on PC. The results are photorealistic and the powerful rendering engine delivers output in record time."
   },
   {
     "imageSrc": "tin.svg",
     "title": "Tinkercad",
     "category": "3D",
-    "description": "ist eine browserbasierte Software, mit der sich mehr oder weniger komplexe 3D-Druckmodelle erstellen lassen."
+    "description_de": "ist eine browserbasierte Software, mit der sich mehr oder weniger komplexe 3D-Druckmodelle erstellen lassen.",
+    "description_en": "is a browser-based software for creating 3D printable models of varying complexity — ideal for beginners and students learning 3D design."
   },
-  {
-    "imageSrc": "cam.svg",
-    "title": "Camtasia",
-    "category": "Vedio",
-    "description": "Studio ist eine kommerzielle Software zur Aufnahme von Screencasts als Video. Entwickler ist das Unternehmen TechSmith. Der Inhalt des Bildschirms kann ganz oder teilweise aufgenommen und weiterverarbeitet werden."
-  },
-  {
-    "imageSrc": "au.svg",
-    "title": "VideoScribe",
-    "category": "Vedio",
-    "description": "ist eine Software zum automatischen Erstellen von Whiteboard-Animationen und vielen anderen Animationsstilen. Es ist bei seinen AbonnentInnen nach wie vor sehr beliebt, da es die Erstellung von animierten Videoinhalten mit wenigen erforderlichen Fähigkeiten oder Vorkenntnissen ermöglicht."
-  },
-  {
-    "imageSrc": "ve.svg",
-    "title": "VEGAS",
-    "category": "Vedio",
-    "description": "Pro von Magix (ehemals Sony Vegas Pro) ist ein Profi-NLE-Videoschnittprogramm für die Produktion von anspruchsvollen HD-Videos sowie Audio- und Blu-ray Medien. Die Suite enthält alle Werkzeuge, die für eine schnelle und effiziente Bearbeitung benötigt werden und verarbeitet alle gängigen Kameraformate."
-  },
-
   {
     "imageSrc": "fu360.svg",
     "title": "Autodesk Fusion 360",
     "category": "3D",
-    "description": "ist eine cloudbasierte CAD-, CAM- und CAE-Software zur Konstruktion, Simulation und Fertigung von 3D-Modellen. Sie wird häufig im Maschinenbau, Produktdesign und 3D-Druck eingesetzt."
+    "description_de": "ist eine cloudbasierte CAD-, CAM- und CAE-Software zur Konstruktion, Simulation und Fertigung von 3D-Modellen. Sie wird häufig im Maschinenbau, Produktdesign und 3D-Druck eingesetzt.",
+    "description_en": "is a cloud-based CAD, CAM, and CAE software for designing, simulating, and manufacturing 3D models. It is widely used in mechanical engineering, product design, and 3D printing."
   },
   {
     "imageSrc": "prusa.png",
     "title": "PrusaSlicer",
     "category": "3D",
-    "description": "ist eine Open-Source-Slicing-Software für den 3D-Druck. Sie wandelt 3D-Modelle in druckbare G-Code-Dateien um und bietet umfangreiche Einstellmöglichkeiten für verschiedene Drucker und Materialien."
+    "description_de": "ist eine Open-Source-Slicing-Software für den 3D-Druck. Sie wandelt 3D-Modelle in druckbare G-Code-Dateien um und bietet umfangreiche Einstellmöglichkeiten für verschiedene Drucker und Materialien.",
+    "description_en": "is an open-source slicing software for 3D printing. It converts 3D models into printable G-code files and offers extensive settings for a wide range of printers and materials."
   },
   {
     "imageSrc": "bambu.png",
     "title": "Bambu Studio",
     "category": "3D",
-    "description": "ist eine Slicing-Software für Bambu-Lab-3D-Drucker, die auf PrusaSlicer basiert. Sie ermöglicht eine einfache Vorbereitung, Vorschau und Optimierung von 3D-Druckaufträgen."
+    "description_de": "ist eine Slicing-Software für Bambu-Lab-3D-Drucker, die auf PrusaSlicer basiert. Sie ermöglicht eine einfache Vorbereitung, Vorschau und Optimierung von 3D-Druckaufträgen.",
+    "description_en": "is a slicing software for Bambu Lab 3D printers, based on PrusaSlicer. It enables easy preparation, preview, and optimization of 3D print jobs."
   },
   {
     "imageSrc": "openscad.svg",
     "title": "OpenSCAD",
     "category": "3D",
-    "description": "ist eine skriptbasierte Software zur Erstellung von 3D-Modellen. Anstatt per Maus zu zeichnen, werden Modelle über Code beschrieben, was besonders für parametrisierte Konstruktionen geeignet ist."
+    "description_de": "ist eine skriptbasierte Software zur Erstellung von 3D-Modellen. Anstatt per Maus zu zeichnen, werden Modelle über Code beschrieben, was besonders für parametrisierte Konstruktionen geeignet ist.",
+    "description_en": "is a script-based software for creating 3D models. Instead of drawing with a mouse, models are described via code — making it ideal for parametric and precision designs."
+  },
+  {
+    "imageSrc": "cam.svg",
+    "title": "Camtasia",
+    "category": "Video",
+    "description_de": "ist eine kommerzielle Software zur Aufnahme von Screencasts als Video. Der Inhalt des Bildschirms kann ganz oder teilweise aufgenommen und weiterverarbeitet werden.",
+    "description_en": "is commercial software for recording screencasts as video. Developed by TechSmith, it allows full or partial screen recording along with powerful editing and post-production features."
+  },
+  {
+    "imageSrc": "au.svg",
+    "title": "VideoScribe",
+    "category": "Video",
+    "description_de": "ist eine Software zum automatischen Erstellen von Whiteboard-Animationen und vielen anderen Animationsstilen. Es ermöglicht die Erstellung von animierten Videoinhalten mit wenigen erforderlichen Vorkenntnissen.",
+    "description_en": "is software for automatically creating whiteboard animations and many other animation styles. It enables the creation of animated video content with minimal prior skills or knowledge required."
+  },
+  {
+    "imageSrc": "ve.svg",
+    "title": "VEGAS Pro",
+    "category": "Video",
+    "description_de": "von Magix (ehemals Sony Vegas Pro) ist ein Profi-NLE-Videoschnittprogramm für die Produktion von anspruchsvollen HD-Videos sowie Audio- und Blu-ray Medien. Die Suite enthält alle Werkzeuge für eine schnelle und effiziente Bearbeitung.",
+    "description_en": "by Magix (formerly Sony Vegas Pro) is a professional NLE video editing suite for producing high-quality HD videos, audio, and Blu-ray media. It contains all the tools needed for fast and efficient editing."
   },
   {
     "imageSrc": "mso.svg",
     "title": "Microsoft Office",
     "category": "Office",
-    "description": "ist eine Sammlung von Büroanwendungen wie Word, PowerPoint und Excel. Sie wird zur Textverarbeitung, Präsentationserstellung und Tabellenkalkulation eingesetzt."
+    "description_de": "ist eine Sammlung von Büroanwendungen wie Word, PowerPoint und Excel. Sie wird zur Textverarbeitung, Präsentationserstellung und Tabellenkalkulation eingesetzt.",
+    "description_en": "is a suite of productivity applications including Word, PowerPoint, and Excel. It is used for word processing, creating presentations, and spreadsheet calculations."
   },
   {
     "imageSrc": "nr.svg",
     "title": "Node-RED",
     "category": "Automation",
-    "description": "ist ein flowbasiertes Entwicklungswerkzeug zur visuellen Programmierung. Es wird häufig für IoT-, Automatisierungs- und Datenverarbeitungsanwendungen eingesetzt."
+    "description_de": "ist ein flowbasiertes Entwicklungswerkzeug zur visuellen Programmierung. Es wird häufig für IoT-, Automatisierungs- und Datenverarbeitungsanwendungen eingesetzt.",
+    "description_en": "is a flow-based development tool for visual programming. It is widely used for IoT, automation, and data processing applications."
   },
   {
     "imageSrc": "n8n.svg",
     "title": "n8n",
     "category": "Automation",
-    "description": "ist eine Open-Source-Automatisierungsplattform, mit der sich Workflows zwischen verschiedenen Diensten und APIs visuell erstellen und automatisieren lassen."
+    "description_de": "ist eine Open-Source-Automatisierungsplattform, mit der sich Workflows zwischen verschiedenen Diensten und APIs visuell erstellen und automatisieren lassen.",
+    "description_en": "is an open-source automation platform for visually building and automating workflows between various services and APIs."
   },
   {
     "imageSrc": "po.svg",
     "title": "Portainer",
     "category": "DevOps",
-    "description": "ist eine Verwaltungsoberfläche für Docker- und Kubernetes-Umgebungen. Sie erleichtert das Management von Containern, Images, Netzwerken und Volumes."
+    "description_de": "ist eine Verwaltungsoberfläche für Docker- und Kubernetes-Umgebungen. Sie erleichtert das Management von Containern, Images, Netzwerken und Volumes.",
+    "description_en": "is a management interface for Docker and Kubernetes environments. It simplifies the management of containers, images, networks, and volumes."
   },
   {
     "imageSrc": "latex.svg",
     "title": "LaTeX",
     "category": "Typesetting",
-    "description": "ist ein textbasiertes Satzsystem zur Erstellung hochwertiger wissenschaftlicher Dokumente. Es wird besonders für Arbeiten mit mathematischen Formeln, Tabellen und Literaturverzeichnissen verwendet."
+    "description_de": "ist ein textbasiertes Satzsystem zur Erstellung hochwertiger wissenschaftlicher Dokumente. Es wird besonders für Arbeiten mit mathematischen Formeln, Tabellen und Literaturverzeichnissen verwendet.",
+    "description_en": "is a text-based typesetting system for creating high-quality scientific documents. It is especially used for papers containing mathematical formulas, tables, and bibliographies."
   }
 ]
